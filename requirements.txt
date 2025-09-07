@@ -3,3 +3,6 @@ pandas
 plotly
 plotly-express
 torch
+numpy
+matplotlib
+
