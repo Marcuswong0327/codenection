@@ -6,7 +6,7 @@ It is a **digital-first car insurance platform** that combines typo detection, d
 
 ### ✨ Key Features
 - **Smart Typo Checking**  
-  Detects typos in user input for car brand, model, and validity of manufacturing year, then predicts the correct entry using a machine learning model (K-Nearest Neighbours model).
+  Detects typos in user input for car brand, model, and validity of manufacturing year, then predicts the correct entry using a machine learning model (Fuzzy Matching).
 
 - **Decentralized Insurance Data**  
   A complete, secure, blockchain-backed system to store car details, user policies, and insurance schemes — making it fully digitalized and easily accessible. Blockchain data storage ensures transparency for validation, yet providing satisfying data security.
